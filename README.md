@@ -1,76 +1,55 @@
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+# Hi there, I'm Novin Davis 👋
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+**Flutter & Mobile App Developer** with **2+ years of hands-on experience** building, testing, and deploying production-ready cross-platform applications for **Android** and **iOS**.
 
 ---
 
 ### 👨‍💻 About Me
-
-I am a **Flutter Developer** with **2+ years of hands-on experience** building, testing, and deploying production-ready cross-platform applications for **Android** and **iOS**. I specialize in writing scalable Dart code using Clean Architecture, integrating REST APIs, and crafting smooth, responsive user interfaces.
-
 - 📱 **2+ Years** of experience shipping mobile apps to Google Play Store & Apple App Store
 - 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and maintainable state management
 - ⚡ Experienced in native platform integrations (**Android / iOS**), Firebase, and CI/CD pipelines
+- 🎓 MCA & BSc Computer Science Graduate
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-#### **Mobile & Core Languages**
-<p>
-  <img src="https://shields.io" alt="Flutter" />
-  <img src="https://shields.io" alt="Dart" />
-  <img src="https://shields.io" alt="Android" />
-  <img src="https://shields.io" alt="iOS" />
-  <img src="https://shields.io" alt="Kotlin" />
-  <img src="https://shields.io" alt="Swift" />
-</p>
+**Mobile & Core Languages**
 
-#### **State Management & Architecture**
-<p>
-  <img src="https://shields.io" alt="BLoC" />
-  <img src="https://shields.io" alt="Riverpod" />
-  <img src="https://shields.io" alt="Provider" />
-  <img src="https://shields.io" alt="GetX" />
-  <img src="https://shields.io" alt="Clean Architecture" />
-</p>
+![Flutter](https://shields.io)
+![Dart](https://shields.io)
+![Android](https://shields.io)
+![iOS](https://shields.io)
+![Kotlin](https://shields.io)
+![Swift](https://shields.io)
 
-#### **Backend, Databases & Tools**
-<p>
-  <img src="https://shields.io" alt="Firebase" />
-  <img src="https://shields.io" alt="Supabase" />
-  <img src="https://shields.io" alt="REST API" />
-  <img src="https://shields.io" alt="SQLite" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub Actions" />
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="Figma" />
-</p>
+**State Management & Architecture**
+
+![BLoC](https://shields.io)
+![Riverpod](https://shields.io)
+![Provider](https://shields.io)
+![GetX](https://shields.io)
+![Clean Architecture](https://shields.io)
+
+**Backend, Databases & Tools**
+
+![Firebase](https://shields.io)
+![Supabase](https://shields.io)
+![REST API](https://shields.io)
+![SQLite](https://shields.io)
+![Git](https://shields.io)
+![GitHub Actions](https://shields.io)
+![Postman](https://shields.io)
+![Figma](https://shields.io)
 
 ---
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="175" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="175" src="https://vercel.app" alt="Top Languages" />
-</div>
+![Novin's GitHub Stats](https://vercel.app)
 
-<div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</div>
+![Top Languages](https://vercel.app)
 
-<div align="center">
-  <img src="https://vercel.app" alt="Contribution Graph" />
-</div>
+![GitHub Streak](https://herokuapp.com)
 
-<img src="https://vercel.app" width="100%" />
+![Contribution Graph](https://vercel.app)
