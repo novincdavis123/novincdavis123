@@ -1,55 +1,31 @@
-# Hi there, I'm Novin Davis 👋
+<h1 align="center">Hi 👋, I'm NOVIN DAVIS</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-**Flutter & Mobile App Developer** with **2+ years of hands-on experience** building, testing, and deploying production-ready cross-platform applications for **Android** and **iOS**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=novincdavis123&label=Profile%20views&color=0e75b6&style=flat" alt="novincdavis123" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novincdavis123" alt="novincdavis123" /></a> </p>
 
-### 👨‍💻 About Me
-- 📱 **2+ Years** of experience shipping mobile apps to Google Play Store & Apple App Store
-- 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and maintainable state management
-- ⚡ Experienced in native platform integrations (**Android / iOS**), Firebase, and CI/CD pipelines
-- 🎓 MCA & BSc Computer Science Graduate
+<p align="left"> <a href="https://twitter.com/novincdavis" target="blank"><img src="https://img.shields.io/twitter/follow/novincdavis?logo=twitter&style=for-the-badge" alt="novincdavis" /></a> </p>
 
----
+- 🔭 I’m currently working on **Mobistar**
 
-### 🛠️ Tech Stack & Ecosystem
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-**Mobile & Core Languages**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/novincdavis123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="novincdavis123" height="30" width="40" /></a>
+<a href="https://twitter.com/novincdavis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="novincdavis" height="30" width="40" /></a>
+<a href="https://medium.com/@novincopan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@novincopan" height="30" width="40" /></a>
+<a href="/https://github.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com" height="30" width="40" /></a>
+</p>
 
-![Flutter](https://shields.io)
-![Dart](https://shields.io)
-![Android](https://shields.io)
-![iOS](https://shields.io)
-![Kotlin](https://shields.io)
-![Swift](https://shields.io)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-**State Management & Architecture**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novincdavis123&show_icons=true&locale=en&layout=compact" alt="novincdavis123" /></p>
 
-![BLoC](https://shields.io)
-![Riverpod](https://shields.io)
-![Provider](https://shields.io)
-![GetX](https://shields.io)
-![Clean Architecture](https://shields.io)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novincdavis123&show_icons=true&locale=en" alt="novincdavis123" /></p>
 
-**Backend, Databases & Tools**
-
-![Firebase](https://shields.io)
-![Supabase](https://shields.io)
-![REST API](https://shields.io)
-![SQLite](https://shields.io)
-![Git](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Postman](https://shields.io)
-![Figma](https://shields.io)
-
----
-
-### 📊 GitHub Analytics
-
-![Novin's GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
-
-![GitHub Streak](https://herokuapp.com)
-
-![Contribution Graph](https://vercel.app)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novincdavis123&" alt="novincdavis123" /></p>
